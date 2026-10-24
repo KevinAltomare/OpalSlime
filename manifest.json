@@ -1,0 +1,8 @@
+{
+  "Name": "Opal Slime",
+  "Author": "Kevin Altomare",
+  "Version": "1.0.0",
+  "Description": "Experiments with custom slime variants.",
+  "UniqueID": "Kevin.OpalSlime",
+  "EntryDll": "OpalSlime.dll"
+}
